@@ -12,9 +12,14 @@ Montra is a practice project for epamer on bench, And here is all about the Mont
 - Webpack
 - Jest
 
+### Deploy
+- github actions
+- github pages
+
 ### Code
 - [montra-frontend repository](https://github.com/montra-practice/montra-frontend)
 - [Montra online address](https://montra-practice.github.io/montra-frontend/)
+
 
 ## TODO
 - [ ] Backend
