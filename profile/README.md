@@ -2,7 +2,7 @@
 Montra is a practice project for epamer on bench, And here is all about the Montra documents
 
 ## Business
-- [Trello for Tasks](https://trello.com/b/IWDHKcvO/kanban-for-montra)
+- [Trello For Tasks](https://trello.com/b/IWDHKcvO/kanban-for-montra)
 - [UI Design](https://www.figma.com/file/5WcSTa9FwvVTR8j51zJsDW/Montra---Expense-Tracker-UI-Kit-(Community)?node-id=223%3A1)
 
 ## Frontend
@@ -13,17 +13,17 @@ Montra is a practice project for epamer on bench, And here is all about the Mont
 - Jest
 
 ### Deploy
-- github actions
-- github pages
+- Github Actions
+- Github Pages
 
 ### Code
-- [montra-frontend repository](https://github.com/montra-practice/montra-frontend)
-- [Montra online address](https://montra-practice.github.io/montra-frontend/)
+- [Montra-Frontend Repository](https://github.com/montra-practice/montra-frontend)
+- [Montra Online Address](https://montra-practice.github.io/montra-frontend/)
 - [SonarQube Cloud](https://sonarcloud.io/organizations/montra-practice/projects)
 
 
 ## TODO
-- [ ] Backend
+- [Montra-Backend Repository](https://github.com/montra-practice/montra-backend)
 
 <!--
 
